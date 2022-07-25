@@ -1,0 +1,1 @@
+Para criar um arquivo, siga o padrão <ID>,<x>,<y> para cada ponto da figura.
