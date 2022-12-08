@@ -28,6 +28,7 @@ int main()
     char* path_fileName = concat_str(workFolderPath,"figs/casa.csv");
 
     carregar_fig(fig,path_fileName);
+    escalar(fig,3);
     imprime_figura(fig);
     arq_desenho(fig);
 
